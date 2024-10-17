@@ -1,3 +1,3 @@
-#this is a notice of slight changes in code earlier today
+#this is a notice of a free website
 
-we made some tweaks
+please edit codes with respect to syntaxes
